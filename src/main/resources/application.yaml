@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: api-entrega-service-v1
